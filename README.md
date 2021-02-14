@@ -1,2 +1,2 @@
-# mela
-Created with CodeSandbox
+# mela-assignment
+I have created for Android view using Expo.

@@ -1,0 +1,19 @@
+<TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:fontFamily="@font/rubik_light"
+  android:textStyle="italic"
+  android:textSize="32sp"
+  android:textColor="#ffffff"
+  tools:text="Upto"
+/>
+
+<TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:fontFamily="@font/rubik_medium"
+  android:textStyle="normal"
+  android:textSize="40sp"
+  android:textColor="#ffffff"
+  tools:text="25% Off"
+/>
